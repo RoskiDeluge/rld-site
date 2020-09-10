@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: ""
+baseurl: "https://rld-site.roskideluge.vercel.app/"
 
 highlighter: none
 
