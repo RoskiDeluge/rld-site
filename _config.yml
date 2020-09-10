@@ -1,13 +1,13 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Roberto L. Delgado
+url: https://rldelgado.com/
+title: Roberto L. Delgado
+description: Full Stack Web Developer
 twitter:
-  username: #yourusername
+  username: roskideluge
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
+  twitter: roskideluge
   name: #yourusername
   avatar:
   email: #youremail
@@ -37,10 +37,11 @@ plugins:
 collections:
   pages:
     output: true
-    # permalink: title
+    # permalink: /:name
   posts:
     output: true
     permalink: /:categories/:year/:month/:day/:title:output_ext
+    # permalink: /:year/:month/:day/:slug
   
 defaults:
   -
