@@ -37,7 +37,7 @@ plugins:
 collections:
   pages:
     output: true
-    permalink: /:title.html
+    permalink: title
   posts:
     output: true
     permalink: /:categories/:year/:month/:day/:title:output_ext
