@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 ![Roberto Delgado Profile Picture](/img/rd_profile.png)
