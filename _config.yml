@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: "https://rld-site.vercel.app/"
+baseurl: ""
 
 highlighter: none
 
@@ -37,10 +37,10 @@ plugins:
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: /:categories/:year/:month/:day/:title:output_ext
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:categories/:year/:month/:day/:title:output_ext
   
 defaults:
   -
