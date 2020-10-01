@@ -17,7 +17,7 @@ I think that what's underappreciated today is what the information pioneers did 
 
 In order to prove that noise has been completely eliminated, we can perform a simple experiment. Simply open your twitter account, click on the plus sign, compose a tweet and send it. Have a friend read out to you what your tweet says and then ask your friend to confirm receipt of the message by @replying with their favorite emoji. 
 
-Of course, saying that noise has been conquered, doesn't mean that there can't be misunderstandings or even errors. This will have to wait unitl we're able to augment our brains with AI and perform error corrections on the fly so that not only the content of messages is perfect but also their intent. 
+Of course, saying that noise has been conquered, doesn't mean that there can't be misunderstandings or even errors. This will have to wait until we're able to augment our brains with AI and perform error corrections on the fly so that not only the content of messages is perfect but also their intent. 
 
 Reading: 
 
