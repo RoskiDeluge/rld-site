@@ -2,8 +2,19 @@
   
     {
 
+      "title"    : "Signal and Noise",
+      "url"      : "/2020/10/01/signal-noise.html",
+      "category" : "",
+      "tags"     : "information",
+      "date"     : "2020-10-01 00:00:00 -1000",
+      "description" : "One of the fascinating things about working in development is being able to trace the trajectory of what you&#39;re doing in a broader history."
+
+    } ,
+  
+    {
+
       "title"    : "From UX to X",
-      "url"      : "/2020/09/03/uxx",
+      "url"      : "/2020/09/03/uxx.html",
       "category" : "",
       "tags"     : "ux",
       "date"     : "2020-09-03 00:00:00 -1000",
@@ -14,7 +25,7 @@
     {
 
       "title"    : "Baked Fresh Daily",
-      "url"      : "/2020/08/06/baked",
+      "url"      : "/2020/08/06/baked.html",
       "category" : "",
       "tags"     : "criticism",
       "date"     : "2020-08-06 00:00:00 -1000",
@@ -25,7 +36,7 @@
     {
 
       "title"    : "Confidence",
-      "url"      : "/2020/07/16/confidence",
+      "url"      : "/2020/07/16/confidence.html",
       "category" : "",
       "tags"     : "development",
       "date"     : "2020-07-16 00:00:00 -1000",
@@ -36,7 +47,7 @@
     {
 
       "title"    : "Two Models of Growth Marketing (a summary)",
-      "url"      : "/2020/06/02/growth-marketing",
+      "url"      : "/2020/06/02/growth-marketing.html",
       "category" : "",
       "tags"     : "growth",
       "date"     : "2020-06-02 00:00:00 -1000",
@@ -47,7 +58,7 @@
     {
 
       "title"    : "FOCUS framework by Justin Wilcox (a summary)",
-      "url"      : "/2020/05/26/focus-framework",
+      "url"      : "/2020/05/26/focus-framework.html",
       "category" : "",
       "tags"     : "growth",
       "date"     : "2020-05-26 00:00:00 -1000",

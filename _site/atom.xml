@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Sidey</title>
+ <title>Roberto L. Delgado</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-09-09T23:56:05-10:00</updated>
+ <updated>2020-10-02T11:16:52-10:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,8 +13,33 @@
 
  
  <entry>
+   <title>Signal and Noise</title>
+   <link href="http://localhost:4000/2020/10/01/signal-noise.html"/>
+   <updated>2020-10-01T00:00:00-10:00</updated>
+   <id>http://localhost:4000/2020/10/01/signal-noise</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;“Shannon proposed an unsettling inversion. Ignore the physical channel and accept its limits: we can overcome noise by manipulating our messages. The answer to noise is not in how loudly we speak, but in how we say what we say.”&lt;/em&gt; - &lt;a href=&quot;https://www.amazon.com/dp/B01M5IJN1P/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot;&gt;A Mind at Play: How Claude Shannon Invented the Information Age&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the fascinating things about working in development is being able to trace the trajectory of what you’re doing in a broader history. Coding itself is an activity as ancient as the cuneiform script on clay tablets written by the scribes of Mesopotamia and the Ancient Near East. I highly recommend a google search of these cuneiform tablets to anyone interested in symbols and communication.&lt;/p&gt;
+
+&lt;p&gt;When I was learning communication theory in school, there was a lot of hand wringing over the initial, mathematical, model of communcation because of the so called “hypodermic needle” theory of communication effects that it implied. In this view, all that was needed to engineer social change was to spread media devices (i.e. television and radio) to unruly populations and you could implant or incept your ideology directly into their minds and affect their behavior. Of course, after the initial fervor of communication/cybernetic studies post WWII, other theories came along that were more sociological and attempted to bridge the gap between the machine centered transmission of intelligence and people focused communication of meaning.&lt;/p&gt;
+
+&lt;p&gt;What I hadn’t realized until recently, is that some of us working in this space have had the priviledge of seeing a complete shift in the concerns of media. During my first semester of grad school in 2005, for instance, we received the news that the last telegram was sent and that the historic medium was being shutdown. Take that in for a moment. In 2005, when Myspace and Facebook were vyying for users, people were still sending telegrams.&lt;/p&gt;
+
+&lt;p&gt;I think that what’s underappreciated today is what the information pioneers did to the noise vs. signal ratio. Since the time of Aristotle and, arguably, since we learned to communicate with words, humans have struggled to contain the noise that distorts the signals (messages) that we want to send. The brilliance of the information theorists, culminating in the formalization of this work in the theory of Claude Shannon, is the complete elimination of noise. This may seem like small potatoes today, but if you think about all the things that could and did affect the ability to send signals perfectly through space, you can start to appreciate the magnitude of this accomplishment.&lt;/p&gt;
+
+&lt;p&gt;In order to prove that noise has been completely eliminated, we can perform a simple experiment. Simply open your twitter account, click on the plus sign, compose a tweet and send it. Have a friend read out to you what your tweet says and then ask your friend to confirm receipt of the message by @replying with their favorite emoji.&lt;/p&gt;
+
+&lt;p&gt;Of course, saying that noise has been conquered, doesn’t mean that there can’t be misunderstandings or even errors. This will have to wait until we’re able to augment our brains with AI and perform error corrections on the fly so that not only the content of messages is perfect but also their intent.&lt;/p&gt;
+
+&lt;p&gt;Reading:&lt;/p&gt;
+
+&lt;p&gt;James Gleick, &lt;a href=&quot;https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235#ace-g7448806443&quot;&gt;The Information: A History, A Theory, A Flood&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>From UX to X</title>
-   <link href="http://localhost:4000/2020/09/03/uxx"/>
+   <link href="http://localhost:4000/2020/09/03/uxx.html"/>
    <updated>2020-09-03T00:00:00-10:00</updated>
    <id>http://localhost:4000/2020/09/03/uxx</id>
    <content type="html">&lt;p&gt;UX (user experience) is a thriving discipline with invaluable strategies for building user centered apps. There are tons of awesome articles on tricks and tactics to craft great UX. But what is experience, if I may be so bold to ask? And why should we care about the user’s experience or our own for that matter?&lt;/p&gt;
@@ -29,7 +54,7 @@
  
  <entry>
    <title>Baked Fresh Daily</title>
-   <link href="http://localhost:4000/2020/08/06/baked"/>
+   <link href="http://localhost:4000/2020/08/06/baked.html"/>
    <updated>2020-08-06T00:00:00-10:00</updated>
    <id>http://localhost:4000/2020/08/06/baked</id>
    <content type="html">&lt;p&gt;The other day my partner and I were talking about deception. She’s a writer and is aware of how we can use the same words to say different things. Take, for instance, the Subway slogan “baked fresh daily.” My assumption was that the bread was baked earlier that day and is therefore as fresh as a few hours. But this is wrong. According to a friend of her’s that worked in Subway, they don’t use the bread that is baked fresh to make sandwiches. Now it is strictly true that the bread is baked fresh everyday, but you are not eating that bread, you are actually eating the bread that &lt;em&gt;was&lt;/em&gt; baked fresh yesterday or the day before. This is an example of what Jonathan Webber referred to as a true assertion with a bullshit implicature that is characteristic of much advertising.&lt;/p&gt;
@@ -41,7 +66,7 @@
  
  <entry>
    <title>Confidence</title>
-   <link href="http://localhost:4000/2020/07/16/confidence"/>
+   <link href="http://localhost:4000/2020/07/16/confidence.html"/>
    <updated>2020-07-16T00:00:00-10:00</updated>
    <id>http://localhost:4000/2020/07/16/confidence</id>
    <content type="html">&lt;p&gt;As a practicing dev, I’m constantly on the lookout for good webinars and tutorials by other devs. One trait that I’ve noticed is common to the best devs is confidence. But this is not your typical ted-talky blustery confidence, but a quieter one that shows up during moments that can induce a stage fright just as terrifying, I’m talking about debugging during a live webinar.&lt;/p&gt;
@@ -54,7 +79,7 @@
  
  <entry>
    <title>Two Models of Growth Marketing (a summary)</title>
-   <link href="http://localhost:4000/2020/06/02/growth-marketing"/>
+   <link href="http://localhost:4000/2020/06/02/growth-marketing.html"/>
    <updated>2020-06-02T00:00:00-10:00</updated>
    <id>http://localhost:4000/2020/06/02/growth-marketing</id>
    <content type="html">&lt;h1 id=&quot;valuecost&quot;&gt;Value/Cost&lt;/h1&gt;
@@ -138,7 +163,7 @@
  
  <entry>
    <title>FOCUS framework by Justin Wilcox (a summary)</title>
-   <link href="http://localhost:4000/2020/05/26/focus-framework"/>
+   <link href="http://localhost:4000/2020/05/26/focus-framework.html"/>
    <updated>2020-05-26T00:00:00-10:00</updated>
    <id>http://localhost:4000/2020/05/26/focus-framework</id>
    <content type="html">&lt;p&gt;Two fundamental principles of the lean method are:&lt;/p&gt;
