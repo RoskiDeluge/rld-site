@@ -4,13 +4,29 @@
  <title>Roberto L. Delgado</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-02T11:16:52-10:00</updated>
+ <updated>2020-11-01T14:40:43-10:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Why should our minds be unfucked?*</title>
+   <link href="http://localhost:4000/2020/11/01/unfucked-minds.html"/>
+   <updated>2020-11-01T00:00:00-10:00</updated>
+   <id>http://localhost:4000/2020/11/01/unfucked-minds</id>
+   <content type="html">&lt;p&gt;I started dipping my toe into quantum mechanics. Specifically the Everett, “many worlds” interpretation. To say that it’s a mind fuck would be a vast understatement. It is the most fundamental shake up of how I’ve viewed the world. Here’s my poor summary of it based on my reading of Sean Carroll’s excellent book.&lt;/p&gt;
+
+&lt;p&gt;Quantum states evolve according to the wave function which obeys Schrödinger’s equation. The wave function is a series of amplitudes which specify the probability of measuring any particle’s position at a particular place. The problem is that what &lt;em&gt;measuring&lt;/em&gt; means at this fine grained resolution is complicated. Briefly, when particles become entangled, there’s a cornucopia super explosive cluster mind fuck that happens. Whereas text book QM and other interpretations are forced to wrestle with “spooky action at a distance” or invent new hidden elements to explain what’s going on, “many worlds” doesn’t add anything to the wave function formalism. The consequence is that the superpositions of quantum states are real, in other words, particles always exist in many worlds. When the wave function branches, some states are weighted more than others, so some branches that the wave function projects forward have a higher probability of existing. The reality described by this theory looks and feels nothing like our everyday reality. We’re not bumping into versions of ourselves in different worlds when we’re having our morning coffee. But this reality is what follows if we keep the theory as minimal and free of our own bagage as possible. As Carroll says, “we don’t chose quantum mechanics, we only choose to face up to it.”&lt;/p&gt;
+
+&lt;p&gt;*Hat tip to my friend Paul Loeb for the title.&lt;/p&gt;
+
+&lt;p&gt;Reading:
+Sean Carroll, &lt;a href=&quot;https://www.amazon.com/Something-Deeply-Hidden-Emergence-Spacetime/dp/1524743011&quot;&gt;Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Signal and Noise</title>
@@ -49,6 +65,10 @@
 &lt;p&gt;I think poor UX is a function of poor X. Once the label &lt;em&gt;user&lt;/em&gt; is put on experience, it’s as if experience is demoted to second class status. But as developers who hope to enter a person’s experience stream, our work needs to strike a balance between interrupting and merging into the person’s experiential state as unobtrusively as possible.&lt;/p&gt;
 
 &lt;p&gt;Experience is the backdrop against which good UX is measured.&lt;/p&gt;
+
+&lt;p&gt;Reading:&lt;/p&gt;
+
+&lt;p&gt;Michael Morgan, &lt;a href=&quot;https://www.uxmatters.com/mt/archives/2020/10/delivering-meaning-to-your-stakeholders.php&quot;&gt;Delivering Meaning to Your Stakeholders&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
