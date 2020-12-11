@@ -9,6 +9,8 @@ tags: [photography]
 
 ![Jorge L. Delgado - Panoramas Isleños](/img/panoramas1.png)
 
+_In memory of Adál Maldonado, 1948-2020_
+
 The gold rush era represented many things. One of its representations is a turbulent time when the fate of whole cultures was being decided and astronomical fortunes were being made. Amid this turmoil, another revolution no less important was unfolding: the perfect representation of the land through photography. The lands of California were the first to be faithfully captured by the new technology.
 
 The American nation began to congeal through the ability of these landscape photographs to fix and provide a document for things that had only been imagined. The early landscape photographers had a dual mission, to develop the medium aesthetically and to make the land legible and thus conquerable. In other words, to turn land into landscapes.
