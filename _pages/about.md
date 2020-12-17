@@ -10,4 +10,4 @@ I'm a web technologist and generalist based in Honolulu, HI. I started learning 
 
 [@roskideluge - Twitter](https://twitter.com/RoskiDeluge) \
 [RoskiDeluge - GitHub](https://github.com/RoskiDeluge) \
-[CV/Resume - Google Doc](https://docs.google.com/document/d/1mp6sO6UKhp1WN1TrETRBgpOHjgpnooCopoEl6xJKheQ/edit?usp=sharing)
+[CV/Resume - Google Doc](https://docs.google.com/document/d/1P1K-OeeTXoYnEJ6fLUGh_xHL9dzgGml8Bossw6OioyI/edit?usp=sharing)
