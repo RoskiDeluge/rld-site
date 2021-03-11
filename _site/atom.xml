@@ -4,7 +4,7 @@
  <title>Roberto L. Delgado</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-01-25T13:43:07-10:00</updated>
+ <updated>2021-03-11T11:41:21-10:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -13,15 +13,59 @@
 
  
  <entry>
+   <title>Names</title>
+   <link href="http://localhost:4000/2021/03/11/names.html"/>
+   <updated>2021-03-11T00:00:00-10:00</updated>
+   <id>http://localhost:4000/2021/03/11/names</id>
+   <content type="html">&lt;p&gt;As I was finishing up grad school and looking for ways to satisfy the culminative requirement for my degree, I attempted to answer two research questions on the “digital divide” by exploring a concept I called “ambient advertising.” Don’t ask me to clarify what I mean by this because I haven’t the faintest idea. But what I remember about this experience, after the committee quickly rejected my feeble attempt at an answer, is the power of naming.&lt;/p&gt;
+
+&lt;p&gt;What the committee should have said upon rejecting my work was that I was attempting to name a phenomenon prematurely, without establishing any sort of track record in the academic literature. They should also have said that I needed to design and implement a relevant quantitative or qualitative study of the media, which are the two main avenues of research in mass communications, and gather results that would lend support to my &lt;em&gt;suggestion&lt;/em&gt; that such a thing as I was naming actually exists.&lt;/p&gt;
+
+&lt;p&gt;Alas, I was too much of a poet (or dilettante) to abide by these implicit rules on naming in the academy. I did eventually find a different way to graduate, but this, I think, was the formative experience of grad school for me. By having my attempt at naming rejected like this, I learned that the act of naming is powerfully correlated with experiential knowledge of the context within which naming occurs.&lt;/p&gt;
+
+&lt;p&gt;Dan Abromov, the talented developer of Redux and now a key engineer on the React team, engaged in some naming himself during his fantastic, if short lived, &lt;em&gt;JustJavascript&lt;/em&gt; email course. In his case, however, he brought years of experience with the Javascript namespace to bear on his act of naming. One of the first things he did was clarify what was meant by a &lt;em&gt;value&lt;/em&gt; in his Javascript mental model. As he explains it: “&lt;em&gt;In the beginning was the Value&lt;/em&gt;. What &lt;em&gt;is&lt;/em&gt; a value? It’s hard to say. This is like asking what a number is in math, or what a point is in geometry. &lt;strong&gt;A value is a &lt;em&gt;thing&lt;/em&gt; in the JavaScript universe.&lt;/strong&gt;”&lt;/p&gt;
+
+&lt;p&gt;It’s interesting to me that he’s not saying what a value is existentially in the JavaScript universe, but he’s intimating that values refer to things in the universe, so, in other words, a name describes a functional relation between things.&lt;/p&gt;
+
+&lt;p&gt;One of the biggest gains I’ve made in my thinking over the past few years has been my (often times clumsy) attempts to relate my use of words and symbols to some functional activity. So a name doesn’t exist by itself, but only in relation to something else, perhaps even as the embodiment of something else. My friend the psychoanalyst calls this process “inscription” and it plays a very important role in helping people to metabolize their experience of trauma.&lt;/p&gt;
+
+&lt;p&gt;As I type these words, my partner and I are anxiously awaiting the first pangs of labor pain that will announce the imminent birth of our second child. We’ve settled on a biblical name for him. Our family doesn’t practice Christianity, but even so, I felt it important to read the book of the bible that will be his namesake. It’s a paradox of life, as I see it, that in naming something or someone you are also naming yourself. My self definition after becoming a parent is very much tied up with the way that the little being I help to name is now helping me name my experience. And I’m grateful, because a name for me, when the rubber meets to road, is just a way to describe the process of sinking my roots deeper in the earth.&lt;/p&gt;
+
+&lt;p&gt;Reading:&lt;br /&gt;
+Kalanithi, Paul. &lt;em&gt;When Breath Becomes Air&lt;/em&gt;. Random House, 2016.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Irvine</title>
+   <link href="http://localhost:4000/2021/02/18/irvine.html"/>
+   <updated>2021-02-18T00:00:00-10:00</updated>
+   <id>http://localhost:4000/2021/02/18/irvine</id>
+   <content type="html">&lt;p&gt;In &lt;em&gt;Palm Springs&lt;/em&gt; Roy asks Nyles, when the later is in a particularly despondent mood inside the infinte loop, “where’s your Irvine?”&lt;/p&gt;
+
+&lt;p&gt;For Roy his Irvine is actually in Irvine, CA. It’s the place where Nyles comes to in desperation after losing Sarah, who he accidentally coaxed into the infinte loop after a night of reckless seduction.&lt;/p&gt;
+
+&lt;p&gt;Roy, who was similarly coaxed, is Nyles’s nemesis turned confidant. In this moment, sitting in Roy’s perfectly manicured back yard, grilling for his kids and drinking beers, he accepts Nyles as a son, in a way. After expressing his cycles of grief toward Nyles through various murderous permutations, Roy has arrived at a place where he can impart some wisdom to Nyles. I would even say that they’ve arrived at a place of love after unleashing on each other the most sadistic versions of themselves and letting those extinguish from an infinitely extended time horizon.&lt;/p&gt;
+
+&lt;p&gt;In essence, Roy is saying to Nyles that he needs to find his home. He also needs to keep watch for a long time and keep returning to that place where his discomfort can sublimate into something more wholesome over time.&lt;/p&gt;
+
+&lt;p&gt;Lately I’ve been using the idea of being close to home as a shorthand for being more centered, being more present in my day to day. Of course, I haven’t had to go through thousands or millions of iterations to find my Irvine, but the forced isolation of our pandemic has aided in the discovery.&lt;/p&gt;
+
+&lt;p&gt;Reading: &lt;br /&gt;
+Wilson, Robert A. &lt;em&gt;Prometheus Rising&lt;/em&gt;. Hilaritas Press, 2016.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Loops</title>
    <link href="http://localhost:4000/2021/01/25/loops.html"/>
    <updated>2021-01-25T00:00:00-10:00</updated>
    <id>http://localhost:4000/2021/01/25/loops</id>
-   <content type="html">&lt;p&gt;In the movie Groundhog Day, Phil Conners’s revelation isn’t limited to one day, but grows as a result of him maintaining his state after each iteration of the loop. What’s interesting to me is his reluctant acceptance of what the repetition represents. In essence, Conners is presented with a choice, either accept to live in this moment forever, or deny it and self destruct.&lt;/p&gt;
+   <content type="html">&lt;p&gt;In the movie &lt;em&gt;Groundhog Day&lt;/em&gt;, Phil Conners’s revelation isn’t limited to one day, but grows as a result of him maintaining his state after each iteration of the loop. What’s interesting to me is his reluctant acceptance of what the repetition represents. In essence, Conners is presented with a choice, either accept to live in this moment forever, or deny it and self destruct.&lt;/p&gt;
 
 &lt;p&gt;Given how much emphasis our culture places on overcomming obstacles by sheer grit and determination, it’s no surprise that, for some, &lt;a href=&quot;https://www.happyscribe.com/public/hidden-brain/minimizing-pain-maximizing-joy#paragraph_423?utm_source=public_transcript&amp;amp;utm_medium=paragraph&amp;amp;utm_campaign=public_promo&quot; target=&quot;_blank&quot;&gt;the obvious moral lesson is to not get stuck in mental loops and that how we choose to view the obstacles in our lives is an essential part in how we overcome them&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The problem for me isn’t that getting stuck in a loop is a depressing thought. That’s the conventional way to think about loops. What I’m curious about is not what my perception tells me about the loop, but what the scale of the loop tells me about why I’m stuck. As anyone knows who writes code knows, there’s a moment when you run the program and the console goes haywire. Somewhere in the code is a bug that’s producing an infinite loop.&lt;/p&gt;
+&lt;p&gt;The problem for me isn’t that getting stuck in a loop is a depressing thought. That’s the conventional way to think about loops. What I’m curious about is not what my perception tells me about the loop, but what the scale of the loop tells me about why I’m stuck. As anyone who writes code knows, there’s a moment when you run the program and the console goes haywire. Somewhere in the code is a bug that’s producing an infinite loop.&lt;/p&gt;
 
 &lt;p&gt;In my view, Nietzsche’s famous Gay Science 341 passage describes such an infinite loop. In this passage the reader is asked to imagine a demon introducing the hearer to a colossal moment where he is told that his life will repeat in all its details including the moment when the demon is speaking. Very few people have noticed the true scale of this moment. But as Paul Loeb explains, “Nietzsche’s implicit ethical recommendation is that I must change my life so that I am better disposed to myself and to life––so well disposed, in fact, that I long for the eternal repetition of its every detail” (444).&lt;/p&gt;
 
